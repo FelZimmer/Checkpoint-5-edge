@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "author": "Grupo Vinheria Agnello",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-esp32-devkit-v1", "id": "esp", "top": 0, "left": 0, "attrs": {} },
+    {
+      "type": "wokwi-dht22",
+      "id": "dht1",
+      "top": -86.1,
+      "left": 129,
+      "attrs": { "temperature": "-40", "humidity": "0" }
+    },
+    { "type": "wokwi-photoresistor-sensor", "id": "ldr1", "top": 120, "left": 250, "attrs": {} },
+    { "type": "wokwi-led", "id": "led1", "top": 190, "left": 150, "attrs": { "color": "red" } },
+    { "type": "wokwi-resistor", "id": "r1", "top": 260, "left": 140, "attrs": { "value": "220" } }
+  ],
+  "connections": [
+    [ "esp:3V3", "dht1:VCC", "red", [ "h0" ] ],
+    [ "esp:GND.2", "dht1:GND", "black", [ "h0" ] ],
+    [ "esp:D4", "dht1:SDA", "blue", [ "h0" ] ],
+    [ "esp:3V3", "ldr1:VCC", "red", [ "h0" ] ],
+    [ "esp:GND.2", "ldr1:GND", "black", [ "h0" ] ],
+    [ "esp:D34", "ldr1:AO", "purple", [ "h0" ] ],
+    [ "esp:D2", "r1:1", "yellow", [ "h0" ] ],
+    [ "r1:2", "led1:A", "yellow", [ "v0" ] ],
+    [ "led1:C", "esp:GND.1", "black", [ "v0" ] ]
+  ],
+  "dependencies": {}
+}
+
