@@ -11,11 +11,12 @@
 
 | Nome | Rm |
 |---|---|
-| Esther dos Santos de Almeida Tozzo | 570860 |
-| Felipe de Oliveira Zimmermann | 570863 |
-| Izabela Pordeus de Almeida | 570316 |
-| João Victor Santos Souza | 569949 |
-| Matheus Lopes Lima | 571458 |
+* Esther dos Santos de Almeida Tozzo - 570860
+* Felipe de Oliveira Zimmermann - 570863
+* Izabela Pordeus de Almeida - 570316
+* João Victor Santos Souza - 569949
+* Leonardo Henrique Basseti - 574039
+* Matheus Lopes Lima - 571458
 
 🔗 **Projeto no Wokwi:**[ [https://wokwi.com/projects/478608964354736129)](https://wokwi.com/projects/478608964354736129](https://wokwi.com/projects/478608964354736129)](https://wokwi.com/projects/478608964354736129)
 
