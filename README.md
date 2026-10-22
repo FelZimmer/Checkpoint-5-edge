@@ -17,7 +17,7 @@
 | João Victor Santos Souza | 569949 |
 | Matheus Lopes Lima | 571458 |
 
-🔗 **Projeto no Wokwi:** [https://wokwi.com/projects/478608964354736129)](https://wokwi.com/projects/478608964354736129](https://wokwi.com/projects/478608964354736129)
+🔗 **Projeto no Wokwi:**[ [https://wokwi.com/projects/478608964354736129)](https://wokwi.com/projects/478608964354736129](https://wokwi.com/projects/478608964354736129)](https://wokwi.com/projects/478608964354736129)
 
 ---
 
